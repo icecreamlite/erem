@@ -41,7 +41,7 @@ faon {HH:MM} - set fan auto-on time (24-hr format)
 faof {HH:MM} - set fan auto -off time (24-hr format)  
 conf - show erem config file  
   
-### Via commadline using python
+### Via TV Remote
 Currently configured to the remote I'm using.  
   
 **Remote buttons**  
